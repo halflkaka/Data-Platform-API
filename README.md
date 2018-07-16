@@ -10,10 +10,10 @@ Python+Flask+PyMongo
 ```
 pip install -r requirements.txt
 ```
+安装依赖。
 输入
 ```
 python app.py
 ```
-启动localhost server。默认端口为5000，数据库默认名为restdb，请确保本地数据库名称与其一致。
-安装依赖。
+启动localhost server。默认端口为5000，数据库默认名为restdb，请确保本地数据库名称与其一致。  
 使用API_driver文件夹中已封装的FT_API_Utils.py使用api。API_driver文件夹中的demo.py是一个使用示例。
