@@ -14,7 +14,7 @@ MONGO_URI = 'mongodb://localhost:27017/restdb?authSource=admin'
 # POSTGRE_URI = 'postgresql://localhost/scjdb'
 
 # API SECRET
-API_SECRET = "FUsionTree*20!8TokenSecret/"
+API_SECRET = "..."
 TOKEN_ALG = 'HS256'
 #TOKEN_HEADER_KEY = "api_access_token"
 TOKEN_HEADER_KEY = "Authorization"
