@@ -1,13 +1,13 @@
 import requests
 import json
 
-basicURL = "http://47.100.217.149:12012/api"
+basicURL = "http://[server]:12012/api"
 # basicURL = "http://localhost:5000/api/"
 
 headers = {
     "Content-Type" : "application/x-www-form-urlencoded",
     #your password
-    "Authorization" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhhbGZsa2FrYSIsInBhc3N3b3JkIjoiJHBia2RmMi1zaGEyNTYkMjAwMDAwJGk5RWFZNndWSWdTZ2RPN2R1emNHUUEkOGRuQ2ZwV2tCUU9oOFdGRGFFSGNmam1EOHFuOVN2SkRFY2ppa3JKOHYuSSJ9.kRKeWHa9i7mUm5CoB6qkth-xeTnWGpt4R5JlR6I90Q4"
+    "Authorization" : "***"
 }
 
 
